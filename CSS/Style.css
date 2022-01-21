@@ -1,0 +1,17 @@
+/* ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; */
+.panda-color {
+  background-color: #fceae8;
+}
+.panda-color-btn {
+  color: white;
+  border: none;
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  border-radius: 8px;
+  padding: 10px 20px;
+  background-color: #ff1e76;
+}
+.catagoriss img {
+  width: 100px;
+}
+.ft {
+}
